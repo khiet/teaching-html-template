@@ -1,0 +1,56 @@
+header {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  background-color: #3b5998;
+  padding: 0.5rem 0;
+}
+
+nav a {
+  color: white;
+}
+
+nav ul {
+  display: inline;
+}
+
+nav li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+nav form {
+  display: inline;
+}
+
+main {
+  display: flex;
+}
+
+main article {
+  flex-basis: 70%;
+  padding: 1rem;
+  background-color: #f7f7f7;
+}
+
+main h2 {
+  text-align: center;
+}
+
+main aside {
+  flex-basis: 30%;
+  padding: 1rem;
+  background-color: #dfe3ee;
+}
+
+main li {
+  margin-top: 0.5rem;
+}
+
+footer {
+  padding: 1rem;
+  background-color: #3b5998;
+  color: white;
+}
